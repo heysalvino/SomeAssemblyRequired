@@ -1,4 +1,4 @@
-# SomeAssemblyRequired# Some Assembly Required
+# SomeAssemblyRequired#
 
 This project, assigned in CMS 230 during the Fall 2017 semester, focuses on translating given C programs into ARM assembly language. The goal is to provide students with hands-on experience in writing assembly language programs dealing with local and global variables, conditional statements, and loops.
 
